@@ -4,7 +4,7 @@
 
 Locker is a UPI-native subscription and autopay manager — track spending, catch silent renewals, and stay ahead of every auto-debit, all in one clean dashboard.
 
-🔗Live: moneylocker.netlify.app
+🔗Live: [moneylocker.netlify.app](https://moneylocker.netlify.app)
 
 ---
 

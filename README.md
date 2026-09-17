@@ -1,4 +1,4 @@
-**Locker 🔒
+## Locker 🔒
 
 **Take control of every recurring payment before it controls you.**
 
